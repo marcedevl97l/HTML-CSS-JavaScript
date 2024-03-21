@@ -1,2 +1,0 @@
-# HyperBlog
-Ruta de aprendizaje 
