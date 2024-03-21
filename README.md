@@ -1,2 +1,2 @@
 # HTML-CSS-JavaScript
-Ruta de aprendizaje 10 meses
+Ruta de aprendizaje
