@@ -1,4 +1,4 @@
-# Bienvenido al Contenedor de Proyectos HTML y CSS! 👋 IN PROGRESS
+# Bienvenido al Contenedor de Proyectos HTML y CSS! 👋
 
 ¡Hola! Este repositorio contiene una colección de proyectos desarrollados en HTML y CSS. Cada proyecto es una muestra de mis habilidades en el diseño y desarrollo web.
 
