@@ -6,20 +6,6 @@
 
 Este repositorio sirve como un contenedor para varios proyectos de desarrollo web realizados utilizando HTML y CSS. Cada proyecto se encuentra en su propia carpeta y contiene los archivos necesarios para ejecutar y visualizar la interfaz web. 📂
 
-## Proyectos destacados
-
-- **Proyecto 1**: Breve descripción del Proyecto 1.
-  - `index.html`
-  - `style.css`
-
-- **Proyecto 2**: Breve descripción del Proyecto 2.
-  - `index.html`
-  - `style.css`
-
-- **Proyecto 3**: Breve descripción del Proyecto 3.
-  - `index.html`
-  - `style.css`
-
 ## Cómo Utilizar
 
 Para ejecutar cualquiera de estos proyectos, simplemente navega a la carpeta del proyecto deseado y abre el archivo `index.html` en tu navegador web y/o WebServer. 🌐
